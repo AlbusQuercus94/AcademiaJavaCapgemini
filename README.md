@@ -9,6 +9,18 @@ As questões foram respondidas na linguagem de programação Java através da ID
 * Java Version: JDK 17.0.2;
 * Apache Netbeans Version: 12.6
 
+### Como Executar
+
+Abra o projeto ```academiajavacapgemini``` na IDE de Java, em ```Source Packages/ com.mycompany.academiajavacapgemini``` possui o arquivo ```MainClass.java```. Aqui no método main está comentado onde inserir os valores a serem avaliados. Depois de determinar os dados, é só ir em na aba Run/RunProject (atalho F6).
+
+As questões foram separadas como métodos. A primeira questão, o método recebe como parâmetro vetores de inteiros com um número ímpar de elementos.
+
+A segunda questão, o método recebe dois parâmetros: o primeiro é o vetor de inteiros e o segundo é o valor da diferença a ser analizada.
+
+A terceira questão, o método recebe uma string como parâmetro.
+
+Após executar o projeto uma vez, ao apertar Alt+F6, roda o arquivo teste.
+
 ## O Desafio de Programação
 
 O Desafio de programação consiste em 3 questões que podem ser resolvidas em qualquer linguagem de programação. Porém, é indicado a escolha de ser feito em Java.
@@ -159,4 +171,3 @@ static void terceiraQuestao (String string){
         
     }
 ```
-
