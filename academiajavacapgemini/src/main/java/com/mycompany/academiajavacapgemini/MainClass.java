@@ -81,14 +81,17 @@ public class MainClass {
         //DEFINA AQUI QUAL OS DADOS PARA VERIFICAR OS MÉTODOS
         
         int arrayPrimeiraQuestao[] = {-9,2,1,4,5,0,6,8,7}; //Insira aqui o vetor da questão 1
-        
-        System.out.println(primeiraQuestao(arrayPrimeiraQuestao));;
+        System.out.println("Resposta da primeira questão:");
+        System.out.println(primeiraQuestao(arrayPrimeiraQuestao));
         
         int arraySegundaQuestao[] = {1,3,2}; //Insira aqui o vetor da questão 2
         int diferencaSegundaQuestao = 0; //Insira aqui a diferença a ser averiguada da questão 2
+        System.out.println("Resposta da segunda questão:");
         System.out.println(segundaQuestao(arraySegundaQuestao,diferencaSegundaQuestao));
         
-        String stringTerceiraQuestao = new String("love is a loosing game");//Insira aqui a string a ser encriptada da questão 3
+        String stringTerceiraQuestao;
+        stringTerceiraQuestao = "love is a loosing game";//Insira aqui a string a ser encriptada da questão 3
+        System.out.println("Resposta da terceira questão:");
         System.out.println(terceiraQuestao(stringTerceiraQuestao));
         
 
