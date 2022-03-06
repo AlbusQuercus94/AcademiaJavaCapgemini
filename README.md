@@ -8,6 +8,7 @@ As questões foram respondidas na linguagem de programação Java através da ID
 
 * Java Version: JDK 17.0.2;
 * Apache Netbeans Version: 12.6
+* Apache Maven
 
 ### Como Executar
 
