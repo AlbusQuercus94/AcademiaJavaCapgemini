@@ -52,7 +52,7 @@ A seguir as 3 questões:
   * ```
     	1	2	3	4
     1	t	e	n	h
-    2	a	u	m   b
+    2	a	u	m	b
     3	o	m	d	i
     4	a
     ```
